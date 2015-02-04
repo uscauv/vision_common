@@ -1,0 +1,18 @@
+<package>
+    <description brief="buoy_detector">
+
+        vision_common
+
+    </description>
+    <author>auv</author>
+    <license>BSD</license>
+    <review status="unreviewed" notes=""/>
+    <url>https://github.com/uscauv/vision_common</url>
+    <depend package="rospy"/>
+    <depend package="roscpp"/>
+    <build_depend>message_generation</build_depend>
+    <run_depend>message_runtime</run_depend>
+
+</package>
+
+
